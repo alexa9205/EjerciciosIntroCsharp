@@ -27,7 +27,7 @@ namespace Ejercicio3
             }
             else
             {
-                WriteLine($"Que pena, aún es {dayUser}, aún falta para el fin de semana.");
+                WriteLine($"Que pena, aún es {dayUser}, faltan unos días para el fin de semana.");
             }
             ReadLine();
 
